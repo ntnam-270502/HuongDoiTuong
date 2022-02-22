@@ -7,4 +7,3 @@ public class NangCapSanPhamTestDrive {
     spGiamGia.xuat();
     spKhongGiamGia.xuat();
 }    
-
